@@ -1,0 +1,61 @@
+{
+	"useid": "Example",
+	  "furniture": [
+	    {
+	      "id": 0,
+	      "texture": "houseplants.png",
+	      "name": "Monstera Deliciosa",
+	      "description": "A large tropical houseplant also known as a 'Swiss Cheese' plant.",
+	      "type": "decor",
+	      "price": 1000,
+	      "index": 3,
+	      "width": 1,
+	      "height": 2,
+	      "boxWidth": 1,
+	      "boxHeight": 2,
+	      "rotations": 1
+	    },
+	    {
+	      "id": 1,
+	      "texture": "houseplants.png",
+	      "name": "Spider Plant",
+	      "description": "A tabletop plant, known to be a feline favorite.",
+	      "type": "decor",
+	      "price": 1000,
+	      "index": 2,
+	      "width": 1,
+	      "height": 1,
+	      "boxWidth": 1,
+	      "boxHeight": 1,
+	      "rotations": 1
+	    },
+	    {
+	      "id": 2,
+	      "texture": "houseplants.png",
+	      "name": "Baby's Tears",
+	      "description": "Helxine soleirolii, also known as irish moss.",
+	      "type": "decor",
+	      "price": 1000,
+	      "index": 1,
+	      "width": 1,
+	      "height": 1,
+	      "boxWidth": 1,
+	      "boxHeight": 1,
+	      "rotations": 1
+	    },
+	    {
+	      "id": 3,
+	      "texture": "houseplants.png",
+	      "name": "Golden Pothos",
+	      "description": "A trailing plant that is easy to care for.",
+	      "type": "decor",
+	      "price": 1000,
+	      "index": 0,
+	      "width": 1,
+	      "height": 1,
+	      "boxWidth": 1,
+	      "boxHeight": 1,
+	      "rotations": 1
+	    }
+	]
+}

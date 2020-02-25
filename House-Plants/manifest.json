@@ -1,0 +1,13 @@
+{
+  "Name": "House Plants",
+  "Author": "the-graytest",
+  "Version": "1.0.0",
+  "Description": "Additional Houseplant options for indoor housplants.",
+  "UniqueID": "the-graytest.CustomFurniture.HousePlants",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys":["Nexus:5476"],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.CustomFurniture",
+    "MinimumVersion": "0.8.6"
+    }
+  }
